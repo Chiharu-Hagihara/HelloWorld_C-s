@@ -1,0 +1,11 @@
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\bin\Debug\netcoreapp3.1\HelloWorld_C-s.exe
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\bin\Debug\netcoreapp3.1\HelloWorld_C-s.deps.json
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\bin\Debug\netcoreapp3.1\HelloWorld_C-s.runtimeconfig.json
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\bin\Debug\netcoreapp3.1\HelloWorld_C-s.runtimeconfig.dev.json
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\bin\Debug\netcoreapp3.1\HelloWorld_C-s.dll
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\bin\Debug\netcoreapp3.1\HelloWorld_C-s.pdb
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\obj\Debug\netcoreapp3.1\HelloWorld_C-s.csprojAssemblyReference.cache
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\obj\Debug\netcoreapp3.1\HelloWorld_C-s.AssemblyInfoInputs.cache
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\obj\Debug\netcoreapp3.1\HelloWorld_C-s.AssemblyInfo.cs
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\obj\Debug\netcoreapp3.1\HelloWorld_C-s.dll
+F:\RiderProjects\HelloWorld_C-s\HelloWorld_C-s\obj\Debug\netcoreapp3.1\HelloWorld_C-s.pdb
